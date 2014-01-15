@@ -1,0 +1,13 @@
+{
+  "name": "My Awesome App",
+  "version": "0.0.0",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "bootstrap": "*"
+  }
+}
